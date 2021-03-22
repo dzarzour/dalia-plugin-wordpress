@@ -1,0 +1,17 @@
+{
+    "name": "owner/dalia-plugin",
+    "description": "Awesome plugin by me",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "dodo90z",
+            "email": "dalool.dalool.z@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4" :{"Inc\\":"./inc"}
+    }
+}
